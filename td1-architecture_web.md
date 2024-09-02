@@ -22,4 +22,16 @@ Méthode GET
 
 ## 3 -Extensible
 
+À partir de HTTP/1.0, les en-têtes HTTP permettent d'étendre facilement le protocole et de mener des expérimentations avec celui-ci. De nouvelles fonctionnalités peuvent même être introduites par un simple accord entre le client et le serveur à propos de la sémantique des nouveaux en-têtes.
+
+## 4 - Sans état
+
+Cela signifie que c'est un protocole de communication qui n'enregistre pas l'état d'une session de communication entre deux requêtes successives.
+
+## – URL
+
+![image](https://github.com/user-attachments/assets/7bc44a52-2068-4138-b236-1393d2cff7e5)
+
+## 6 - Codes Status
+
 
