@@ -28,10 +28,21 @@ Méthode GET
 
 Cela signifie que c'est un protocole de communication qui n'enregistre pas l'état d'une session de communication entre deux requêtes successives.
 
-## – URL
+## 5– URL
 
 ![image](https://github.com/user-attachments/assets/7bc44a52-2068-4138-b236-1393d2cff7e5)
 
 ## 6 - Codes Status
+
+200 : succès de la requête ;  <br>
+301 et 302 : redirection, respectivement permanente et temporaire ; <br>
+401 : utilisateur non authentifié ; <br>
+403 : accès refusé ; <br>
+404 : ressource non trouvée ; <br>
+500, 502 et 503 : erreurs serveur ; <br>
+504 : le serveur n'a pas répondu.
+
+## 7 – Négociation de contenu
+Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une représentation. Le serveur renvoie alors une représentation donnée au client.
 
 
