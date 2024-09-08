@@ -46,3 +46,7 @@ Cela signifie que c'est un protocole de communication qui n'enregistre pas l'ét
 Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une représentation. Le serveur renvoie alors une représentation donnée au client.
 
 
+## 10 - Headers
+![image](https://github.com/user-attachments/assets/0b10ff43-5fd6-481b-9bbd-a082e62f4058)![image](https://github.com/user-attachments/assets/8cd7d64f-5e5e-43e4-b965-cdc95b44e4f2)![image](https://github.com/user-attachments/assets/00df9624-ab1a-4197-9f45-3a480dc7cbfd)
+
+
